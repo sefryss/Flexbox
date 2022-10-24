@@ -12,7 +12,7 @@ export default class App extends React.Component {
        <View 
         style = {{
           alignItems: 'center',
-          backgroundColor: 'lightgrey',
+          backgroundColor: 'pink',
           flex: 1,
           justifyContent: 'center'
         }}
@@ -25,7 +25,7 @@ export default class App extends React.Component {
 
         <View
           style = {{
-            backgroundColor: 'gray',
+            backgroundColor: 'lightblue',
             flexDirection : 'row',
             justifyContent: 'space-between',
             padding : 10
@@ -33,7 +33,7 @@ export default class App extends React.Component {
         >
           <View
             style = {{
-              backgroundColor: 'yellow',
+              backgroundColor: 'red',
               height: 30,
               width: 30
             }}
@@ -51,7 +51,7 @@ export default class App extends React.Component {
 
           <View
             style = {{
-              backgroundColor: 'white',
+              backgroundColor: 'blue',
               height: 30,
               width: 30
             }}
